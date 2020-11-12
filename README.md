@@ -1,1 +1,1 @@
-# imgfoler
+# imgfolder
